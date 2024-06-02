@@ -1,5 +1,0 @@
-1. konfigurasi database dengan prisma
-2. membuat folder controller dan routes
-3. membuat function di dalam folder controller
-4. membuat file routes dan import function dari controller ke routes
-5. index.js merupakan entry point
